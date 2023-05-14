@@ -100,7 +100,6 @@ DATABASES = {
         'NAME': 'gogo__note',
         'USER': 'vivek',
         'PASSWORD': 'Always4ume&@',
-
         'OPTIONS': {
             # 'driver': 'ODBC Driver 17 for SQL Server',
             'init_command':"SET sql_mode='STRICT_TRANS_TABLES'",
